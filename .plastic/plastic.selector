@@ -1,0 +1,4 @@
+repository "KitchenChaos@ekkojojo@cloud.cn"
+  path "/"
+    smartbranch "/main" 
+     
